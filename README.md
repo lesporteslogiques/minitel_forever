@@ -1,4 +1,4 @@
-= Minitel forever
+# Minitel forever
 
 Programmes pour arduino + minitel
 
