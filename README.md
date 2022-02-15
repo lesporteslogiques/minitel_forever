@@ -4,11 +4,11 @@ Programmes pour arduino + minitel
 
 ![*_*](./assets/minitel.jpg)
 
-**png_to_minitel**
+**png_to_minitel** (processing)
 
 Conversion d'images PNG 80x72 1-bit en tableau d'octets pour afficher sur le minitel. Ces tableaux sont réutilisables dans les programmes arduino.
 
-**videotex_lpl_004**
+**videotex_lpl_004** (arduino)
 
 Diaporama auto-promotionnel et innovant pour 2022
 
@@ -25,4 +25,8 @@ En attendant : relier le cable MIDI aux broches suivantes (vue de l'arrière de 
 ![*_*](./assets/minitel_photo_circuit.jpg)
 
 Pour la compatibilité du futur incertain, les lib. arduino sont dans le dossier ./LIB
+
+Minitel library for Arduino (version ?) https://github.com/imclab/Minitel \\
+Flash Library 1.0.1 by Mikel Hart https://github.com/schinken/Flash
+
 
